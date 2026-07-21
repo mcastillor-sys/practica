@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="JQq841QG5FjkJft-JF5J">
+    <mxGraphModel dx="860" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-15" edge="1" parent="1" source="Vy1IHbT2f0ljQVG5j21k-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="Vy1IHbT2f0ljQVG5j21k-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-16" edge="1" parent="1" source="Vy1IHbT2f0ljQVG5j21k-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="Vy1IHbT2f0ljQVG5j21k-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-9" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Leer nombre,&amp;nbsp;&lt;div&gt;primer_apellido,&amp;nbsp;&lt;/div&gt;&lt;div&gt;segundo_apellido&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="225" x="301.5" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-17" edge="1" parent="1" source="Vy1IHbT2f0ljQVG5j21k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="Vy1IHbT2f0ljQVG5j21k-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nombre-completo = nombre +&amp;nbsp;&lt;div&gt;primer_apellido +&amp;nbsp;&lt;/div&gt;&lt;div&gt;segundo_apellido&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68" width="282" x="273" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-18" edge="1" parent="1" source="Vy1IHbT2f0ljQVG5j21k-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="Vy1IHbT2f0ljQVG5j21k-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1IHbT2f0ljQVG5j21k-13" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Imprimir nombre_completo" vertex="1">
+          <mxGeometry height="60" width="222" x="303" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
