@@ -1,4 +1,4 @@
-cant_jaulas = int(input ("Digite la cantidad de jaulas: "))
+cant_jaulas = int(input ("Digite)
 cant_conejos_jaula = int(input("Digite la cantidad de conejos por jaula: "))
 dosis_vacuna = 2.5
 
